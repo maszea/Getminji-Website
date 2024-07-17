@@ -18,18 +18,20 @@ export default function hero() {
                             <h1 className={"font-ohno font-bold text-4xl sm:text-8xl pb-8 text-center leading-tight"}>
                                 Track your project Anywhere. Anytime.
                             </h1>
-                            <p className={"font-ohno font-normal text-slate-500 text-xl text-center px-[5%] sm:px-[28%]"}>Minji is a
-                                simple app for managing your personal project. <span
+                            <p className={"font-ohno font-normal text-slate-500 text-xl text-center px-[5%] sm:px-[28%]"}>
+                                Minji is a simple app for managing your personal project. <span
                                     className={"font-medium text-black"}>
                                     It’s free and it’s fully offline!</span>
                             </p>
                             <div className={"py-10"}>
-                                <button type="button" className="text-black bg-yellow-400 hover:bg-yellow-300 focus:ring-4
+                                <a href={"https://apps.apple.com/app/minji/id6535674383"} target={"_blank"}>
+                                    <button type="button" className="text-black bg-yellow-400 hover:bg-yellow-300 focus:ring-4
                                 focus:outline-none focus:ring-[#050708]/50 font-bold rounded-full text-xl text-center inline-flex
                                  items-center px-8 py-4">
-                                    <img src={iconApple} alt="icon" width={16} height={16} className={"mr-4"}/>
-                                    Download
-                                </button>
+                                        <img src={iconApple} alt="icon" width={16} height={16} className={"mr-4"}/>
+                                        Download
+                                    </button>
+                                </a>
                             </div>
                         </div>
                         <div className={"py-14 hidden lg:block"}>
