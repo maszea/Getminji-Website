@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="26px" viewBox="0 0 26 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Programming</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="MacBook-Pro-13&quot;" transform="translate(-575, -1722)" stroke="#000000" stroke-width="2">
+            <g id="Why-Useminji" transform="translate(159, 1510)">
+                <g id="Cards" transform="translate(0, 177)">
+                    <g id="It's-offline" transform="translate(380, 0)">
+                        <g id="Group-11" transform="translate(34.5, 34)">
+                            <g id="Group-10" transform="translate(2.5, 0)">
+                                <g id="Programming" transform="translate(0, 2)">
+                                    <path d="M0,12 C0,6.34314 0,3.514716 1.757364,1.757364 C3.514716,0 6.34314,0 12,0 C17.6568,0 20.48532,0 22.2426,1.757364 C24,3.514716 24,6.34314 24,12 C24,17.6568 24,20.48532 22.2426,22.2426 C20.48532,24 17.6568,24 12,24 C6.34314,24 3.514716,24 1.757364,22.2426 C0,20.48532 0,17.6568 0,12 Z" id="Path"></path>
+                                    <polyline id="Path" stroke-linecap="round" points="18 15.6 15 15.6 12 15.6"></polyline>
+                                    <path d="M6,9.6 L6.28128,9.83436 C7.819296,11.11608 8.588316,11.75688 8.588316,12.6 C8.588316,13.44312 7.819296,14.08392 6.28128,15.36564 L6,15.6" id="Path" stroke-linecap="round"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
