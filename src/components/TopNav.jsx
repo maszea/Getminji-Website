@@ -10,13 +10,13 @@ export default function topNav() {
                 <nav className="flex flex-col sm:flex-row justify-between items-start sm:items-center p-4">
                     <div className="md:flex flex-row items-center space-x-4 hidden sm:block">
                         <a href={"https://x.com/helloalzea"} target={"_blank"} className="flex items-center text-black
-                        space-x-2 hover:text-slate-700">
-                            <img src={iconTwitter} alt="icon" width={18} height={18}/>
+                        space-x-2 hover:text-cyan-500">
+                            <img src={iconTwitter} alt="icon" width={18} height={18} />
                             <span className={"font-bold text-xl"}>X (Twitter)</span>
                         </a>
                         <span className={"font-bold"}>•</span>
                         <a href={"https://dribbble.com/alzea"} target={"_blank"} className="flex items-center text-black
-                        space-x-2 hover:text-slate-700">
+                        space-x-2 hover:text-pink-500">
                             <img src={iconDribbble} alt="icon" width={18} height={18}/>
                             <span className={"font-bold text-xl"}>Dribbble</span>
                         </a>

@@ -8,17 +8,17 @@ export default function whyUse() {
         {
             icon: iconFree,
             title: "It's free",
-            description: "When it's time to swap info, have your new contact scan your QR code with their phone camera."
+            description: "Get a simple project tracking app without spending a dime. It's 100% free. Forever."
         },
         {
             icon: iconOffline,
             title: "It's offline",
-            description: "When it's time to swap info, have your new contact scan your QR code with their phone camera."
+            description: "Keep things moving even without the internet. Manage your projects anytime, anywhere."
         },
         {
             icon: iconCat,
             title: "It's simple",
-            description: "When it's time to swap info, have your new contact scan your QR code with their phone camera."
+            description: "A straightforward app to keep your projects on track. Fast, easy to use, no extra fuss."
         }
     ];
 

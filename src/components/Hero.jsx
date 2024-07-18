@@ -21,7 +21,7 @@ export default function hero() {
                             <p className={"font-ohno font-normal text-slate-500 text-xl text-center px-[5%] sm:px-[28%]"}>
                                 Minji is a simple app for managing your personal project. <span
                                     className={"font-medium text-black"}>
-                                    It’s free and it’s fully offline!</span>
+                                    It’s 100% Free and Offline, forever!</span>
                             </p>
                             <div className={"py-10"}>
                                 <a href={"https://apps.apple.com/app/minji/id6535674383"} target={"_blank"}>
