@@ -26,7 +26,7 @@ export default function whyUse() {
         <div className="container mx-auto pb-20 sm:pb-40">
             <h2 className="text-3xl sm:text-5xl font-bold text-center pb-4 sm:pb-6">Why use minji?</h2>
             <p className="text-xl text-center text-gray-600 pb-12">
-                &quot; It gets the 💩 done. No more. No less. &quot; - Tiara (Alzea&apos;s wife)
+                It gets the 💩 done. No more. No less.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 px-4 sm:px-40">
                 {features.map((feature, index) => (
