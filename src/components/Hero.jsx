@@ -85,7 +85,7 @@ export default function hero() {
                         </div>
                     </div>
                 </div>
-                <div className="relative w-full">
+                <div className="relative w-full overflow-x-hidden">
                     <motion.div
                         initial={{opacity: 0}}
                         whileInView={{opacity: 1}}
@@ -100,7 +100,7 @@ export default function hero() {
                         />
                     </motion.div>
                     <div
-                        className="absolute -z-50 inset-x-0 top-1/2 transform -translate-y-1/2 overflow-hidden w-[220%] sm:w-[120%]">
+                        className="absolute -z-50 inset-0 top-1/2 transform -translate-y-1/2 w-[100%]">
                         <img
                             src={dotsIllustration}
                             alt="Doodles"
