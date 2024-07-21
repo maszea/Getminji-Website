@@ -77,7 +77,7 @@ export default function hero() {
                                 initial={{opacity: 0}}
                                 whileInView={{opacity: 1}}
                                 animate={{y: -40}}
-                                transition={{type: "spring", delay: 0.35}}
+                                transition={{type: "spring", delay: 0.30}}
                                 viewport={{ once: true }}
                             >
                                 <img src={minjiYellow} alt={"Minji"} width={540} height={540}/>
