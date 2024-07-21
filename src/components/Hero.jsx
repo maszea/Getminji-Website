@@ -19,7 +19,7 @@ export default function hero() {
                                 transition={{type: "spring", delay: 0.35}}
                                 viewport={{ once: true }}
                             >
-                                <img src={minjiBlack} alt={"Minji"} width={540} height={540} />
+                                <img src={minjiBlack} alt={"Minji"} width={600} height={600} />
                             </motion.div>
                         </div>
                         {/*HERO TEXT*/}
@@ -80,7 +80,7 @@ export default function hero() {
                                 transition={{type: "spring", delay: 0.30}}
                                 viewport={{ once: true }}
                             >
-                                <img src={minjiYellow} alt={"Minji"} width={540} height={540}/>
+                                <img src={minjiYellow} alt={"Minji"} width={600} height={600}/>
                             </motion.div>
                         </div>
                     </div>
