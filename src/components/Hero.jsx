@@ -85,7 +85,7 @@ export default function hero() {
                         </div>
                     </div>
                 </div>
-                <div className="relative w-full overflow-x-hidden">
+                <div className="relative w-full">
                     <motion.div
                         initial={{opacity: 0}}
                         whileInView={{opacity: 1}}
