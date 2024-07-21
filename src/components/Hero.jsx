@@ -42,7 +42,7 @@ export default function hero() {
                                 transition={{type: "spring", delay: 0.5}}
                                 viewport={{ once: true }}
                             >
-                                <p className={"font-ohno font-normal text-slate-500 text-xl text-center px-[5%] sm:px-[28%]"}>
+                                <p className={"font-ohno font-normal text-slate-500 text-xl text-center px-[5%] sm:px-[25%]"}>
                                     Minji is a simple app for managing your personal project. <span
                                     className={"font-medium text-black"}>
                                 It’s 100% Free and Offline, forever!</span>
